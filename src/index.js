@@ -1,1 +1,1 @@
-/*Thu Feb 23 2023 09:21:42 GMT+0800 (GMT+08:00)*/import HelloWorld.vue from './components/HelloWorld.vue';import IframeCom from './components/IframeCom';export { HelloWorld.vue,IframeCom }; 
+/*Thu Feb 23 2023 09:49:38 GMT+0800 (GMT+08:00)*/import IframeCom from './components/IframeCom';export { IframeCom }; 
